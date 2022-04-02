@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Elvis Carmona</h1>
-<h3 align="center">Desarrolladore de Website y App</h3>
+<h3 align="center">Desarrollador de Website y App</h3>
 
 - 🔭 Estoy trabajando [como:____](en ______)
 
