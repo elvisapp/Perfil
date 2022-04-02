@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Elvis Carmona</h1>
 <h3 align="center">Desarrollador de Website y App</h3>
 
-- 🔭 Estoy trabajando en proyectos constantememete....
+- 🔭 Estoy trabajando en proyectos constantemente....
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/elvis.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elvis.com" height="30" width="40" /></a>
